@@ -9,6 +9,7 @@ Este projeto não precisa de nenhuma depedência para funcionar, porém durante 
 Sinta-se a vontade caso queira rodar este projeto direto no seu browser clicando com o botão direito no arquivo `index.html` e, em seguida, selecionando a opção `Abrir Com` e selecionando o navegador de sua preferência.
 
 Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, e, após isso, clonar este repositório:
+
 ```sh
   $ git clone https://github.com/maateusilva/getkcal.git
 ```
@@ -16,6 +17,7 @@ Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, e
 ## Executando a aplicação
 
 Para executá-la é muito simples, basta rodar os seguintes comandos:
+
 ```sh
   $ cd getkcal/starterkit # para acessar a pasta clonada do git
   $ npm init -y # inicializando o package.json
